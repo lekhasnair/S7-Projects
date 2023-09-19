@@ -141,10 +141,10 @@ ultimately enhancing the value and effectiveness of social network platforms
 
 # Group No:D15
 
-# Project Title: Face recognition
+# Project Title: Deep Learning for Micro-expression Recognition
 
 
-**Abstract**: The project aims to address the problem of community detection in attributed networks by developing a Leader-Based Community Detection Algorithm. Community detection refers to the task of identifying groups or communities of nodes within a network that exhibit strong interconnections. Attributed networks include additional information or attributes associated with nodes, which can provide valuable insights for community detection. The problem is relevant because accurately identifying communities in attributed networks can help in various domains such as social network analysis, recommendation systems, and understanding complex relationships. The proposed algorithm will leverage the attributes and network structure to improve the accuracy and effectiveness of community detection in such networks.
+**Abstract**: The goal of the research is to investigate the use of Deep Learning (DL) methods for Micro-expression Recognition (MER). Micro-expressions are unconscious, minute facial movements that indicate concealed emotions. Due to their spontaneous and quick nature, the challenge is in accurately identifying and recognising these fleeting emotions, which makes data collection and interpretation challenging. The practical uses of MER in a number of areas, such as emotion analysis, deception detection, and human-computer interaction, make this issue relevant. The project's goal is to use DL developments to improve MER performance and create reliable systems for use in the field. Limited accessible datasets, the difficulty of recording and annotating Micro-expressions, and the necessity for MER technology to be used in an ethically acceptable manner. 
 
 
 
