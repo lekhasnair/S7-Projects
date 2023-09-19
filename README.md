@@ -1,7 +1,7 @@
 # S7-Projects
-# Group No:B5
+# Group No:CA8
 
-# Project Title: Multilevel attribute inference mechanism on attributed social networks
+# Project Title: Breast Cancer detection using Histopathology Images
 
 **Abstract**: In social networks, users possess hierarchical user attributes that serve as self-descriptive 
 information. Attribute inference plays a crucial role in social networks for user classifications 
@@ -15,7 +15,7 @@ Attribute inference is relevant because it enables social platforms to improve u
 provide personalized services, optimize platform operations, and drive targeted advertising, 
 ultimately enhancing the value and effectiveness of social network platforms
 
-## Project guide: Deepthi L.R
+## Project guide: Lekha S Nair
 ## Team
 
 <table>
@@ -26,25 +26,21 @@ ultimately enhancing the value and effectiveness of social network platforms
   </tr>
   <tr>
     <td>1</td>
-    <td>AM.EN.U4CSE20147</td>
-    <td>Nikhil Chowdary</td>
+    <td>AM.EN.U4CSE20003</td>
+    <td>Advaith Dev Krishnan</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>AM.EN.U4CSE20148</td>
-    <td>Nukala Aashish Gopal</td>
+    <td>AM.EN.U4CSE20005</td>
+    <td>Akhilesh Rajesh</td>
   </tr>  
 <tr>
     <td>3</td>
-    <td>AM.EN.U4CSE20175</td>
-    <td>Yaddala Pavan Kumar Reddy
+    <td>AM.EN.U4CSE20265</td>
+    <td>Sharan J
 </td>
   </tr>  
-  <tr>
-    <td>3</td>
-    <td>AM.EN.U4CSE20164</td>
-    <td>Siriguppa vishnu sai Kaushal </td>
-  </tr>
+  
  
 </table>
 
