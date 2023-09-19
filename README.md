@@ -139,16 +139,16 @@ ultimately enhancing the value and effectiveness of social network platforms
 
 
 
-# Group No:DB4
+# Group No:D15
 
-# Project Title: Leader-Based Community Detection Algorithm in Attributed Networks
+# Project Title: Face recognition
 
 
 **Abstract**: The project aims to address the problem of community detection in attributed networks by developing a Leader-Based Community Detection Algorithm. Community detection refers to the task of identifying groups or communities of nodes within a network that exhibit strong interconnections. Attributed networks include additional information or attributes associated with nodes, which can provide valuable insights for community detection. The problem is relevant because accurately identifying communities in attributed networks can help in various domains such as social network analysis, recommendation systems, and understanding complex relationships. The proposed algorithm will leverage the attributes and network structure to improve the accuracy and effectiveness of community detection in such networks.
 
 
 
-## Project guide: Deepthi L.R
+## Project guide: Lekha S Nair
 ## Team
 
 <table>
@@ -159,25 +159,20 @@ ultimately enhancing the value and effectiveness of social network platforms
   </tr>
   <tr>
     <td>1</td>
-    <td>AM.EN.U4CSE20339</td>
-    <td>Krishnpriya Dinesan</td>
+    <td>AM.EN.U4CSE20316</td>
+    <td>B SAI SARVAGNA</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>AM.EN.U4CSE20366</td>
-    <td>Sreesankar S</td>
+    <td>AM.EN.U4CSE20374</td>
+    <td>VIGNESH A NAIR</td>
   </tr>  
 <tr>
     <td>3</td>
-    <td>AM.EN.U4CSE20321</td>
-    <td>Devesh Kumar V V
+    <td>AM.EN.U4CSE20329</td>
+    <td>GOUTHAM VIJAY
 </td>
-  </tr>  
-  <tr>
-    <td>3</td>
-    <td>AM.EN.U4CSE20152</td>
-    <td>Pranav B Nair </td>
-  </tr>
+  
  
 </table>
 
