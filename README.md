@@ -75,16 +75,16 @@ ultimately enhancing the value and effectiveness of social network platforms
   </tr>  
 </table>
 
-# Group No:C4
+# Group No:D16
 
-# Project Title: Overlapping Community Detection on Attributed Networks.
+# Project Title: Graph based Cancer Classification of Histopathology Images.
 
 
 **Abstract**: To address the problem of identifying overlapping communities in networks while considering node attributes as well as the topological structure of the network. Normal community detection algorithms assume non-overlapping communities and ignore the additional information provided by node attributes. However, in many real-world scenarios, such as social networks or biological systems, nodes can belong to multiple communities simultaneously. By considering and combining the information from node attributes and the network topology, this project aims to develop an algorithm that can effectively detect overlapping communities that align with both the connections between nodes and their shared attributes, allowing for a more accurate understanding of complex network structures. This problem is relevant as it has applications in various domains, including social network analysis, recommendation systems, and understanding complex systems, providing valuable insights into the relationships and interactions within the networks.
 
 
 
-## Project guide: Deepthi L.R
+## Project guide: Lekha S Nair
 ## Team
 
 <table>
@@ -95,25 +95,14 @@ ultimately enhancing the value and effectiveness of social network platforms
   </tr>
   <tr>
     <td>1</td>
-    <td>AM.EN.U4CSE20275</td>
-    <td>Vennam Venkata Siva Naga Sai Mohan</td>
+    <td>AM.EN.U4CSE20350</td>
+    <td>Piyush Kumar Panwar</td>
   </tr>
-  <tr>
-    <td>2</td>
-    <td>AM.EN.U4CSE20217</td>
-    <td>Boora Jagadananda Tharaka</td>
-  </tr>  
-<tr>
-    <td>3</td>
-    <td>AM.EN.U4CSE20215</td>
-    <td>Balla Hemanth
-</td>
-  </tr>  
-  <tr>
-    <td>3</td>
-    <td>AM.EN.U4CSE20248</td>
-    <td>Mudiyala Vishal Reddy </td>
-  </tr>
+ <tr>
+    <td>1</td>
+    <td>AM.EN.U4CSE20368</td>
+    <td>T M Sai dileep</td>
+  </tr> 
  
 </table>
 
