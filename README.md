@@ -3,18 +3,7 @@
 
 # Project Title: Breast Cancer detection using Histopathology Images
 
-**Abstract**: In social networks, users possess hierarchical user attributes that serve as self-descriptive 
-information. Attribute inference plays a crucial role in social networks for user classifications 
-and targeted recommendations. However, current approaches mainly focus on the flat 
-inference problem, leading to significant inconsistencies in multi-level tasks. This project 
-addresses this issue by proposing a solution i.e., Multi-level Inference model, that takes into 
-account the semantic hierarchy of user attributes. By considering the hierarchical structure, this 
-approach aims to improve the accuracy and reliability of attribute inference, enabling more 
-consistent and effective user classifications and targeted recommendations on social platforms.
-Attribute inference is relevant because it enables social platforms to improve user experiences, 
-provide personalized services, optimize platform operations, and drive targeted advertising, 
-ultimately enhancing the value and effectiveness of social network platforms
-
+**Abstract**: Breast cancer is caused by the abnormal and rapid growth of cells. The early detection of this cancer can help in having a better chance in curing at an early stage itself and can have much more effective and impactful treatment.Computer- aided technology can help predict whether the patient is having cancer or not at an early stage with maximum precision and accuracy and will be very useful in oncology field of medical science. In this project, we will be  using a deep learning model  to do feature extraction and then using an optimization algorithm for feature selection and followed by successful classification as benign or malignant tumour.
 ## Project guide: Lekha S Nair
 ## Team
 
