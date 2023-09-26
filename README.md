@@ -69,8 +69,17 @@
 # Project Title: Graph based Cancer Classification of Histopathology Images.
 
 
-**Abstract**: To address the problem of identifying overlapping communities in networks while considering node attributes as well as the topological structure of the network. Normal community detection algorithms assume non-overlapping communities and ignore the additional information provided by node attributes. However, in many real-world scenarios, such as social networks or biological systems, nodes can belong to multiple communities simultaneously. By considering and combining the information from node attributes and the network topology, this project aims to develop an algorithm that can effectively detect overlapping communities that align with both the connections between nodes and their shared attributes, allowing for a more accurate understanding of complex network structures. This problem is relevant as it has applications in various domains, including social network analysis, recommendation systems, and understanding complex systems, providing valuable insights into the relationships and interactions within the networks.
-
+**Abstract**: The project aims to address the inefficient classification of Breast Cancer (BC) from
+histopathological images using Deep Learning techniques. Breast Cancer is a common and
+deadly disease among women, and accurate diagnosis is crucial for effective treatment.
+Histopathology provides comprehensive information, but existing methods suffer from
+inefficient learning of networks, resulting in suboptimal accuracy. The motivation is to improve
+Breast Cancer classification by leveraging Deep Neural Networks and Transfer Learning for
+better performance and facilitating pathologists' work. Challenges include the large size of
+Whole Slide Image which is in gigabytes, limited availability of the training datasets due to
+privacy policy concern, high computational requirements, and cost. The project seeks to
+overcome these challenges and enhance the accuracy of Breast Cancer diagnosis from
+histopathological images.
 
 
 ## Project guide: Lekha S Nair
